@@ -12,7 +12,6 @@ I'm a senior administrator looking for changing my professional area to coding ð
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lannavx&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lannavx&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lannavx&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
