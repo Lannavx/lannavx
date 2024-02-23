@@ -1,5 +1,5 @@
 # Hi! I'm Lanna!
-I'm a senior administrator looking for changing my professional area to coding 🌟<br><br>📚 I’m currently learning about Javascript, HTML5 and CSS3. <br>I'm excited to improve and keeping learning new skills and technologies.<br><br>If you want to help me in my journey I'll be happy to talk to you, let's chat! 😄<br>
+I'm a senior administrator looking for changing my professional area to coding 🌟<br><br>📚 I’m currently learning about Python, Javascript, HTML5 and CSS3. <br>I'm excited to improve and keeping learning new skills and technologies.<br><br>If you want to help me in my journey I'll be happy to talk to you, let's chat! 😄<br>
 
 
 ## 🌐 Socials:
