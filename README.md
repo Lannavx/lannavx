@@ -22,11 +22,11 @@ Estou sempre pronta para conectar, compartilhar ideias ou mesmo tomar um café v
 
 ## 📊 Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lannavx&theme=dark&layout=compact)
 
 ![Lannavx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lannavx&theme=dark&show_icons=true&rank_icon=github) 
 
-![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lannavx&theme=dark)
+![Github Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannavx&theme=dark)
 
 
 
