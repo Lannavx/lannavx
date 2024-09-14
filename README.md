@@ -4,7 +4,7 @@
 Sou <b>Lanna Vieira</b>, desenvolvedora de software em transição de carreira. Minha jornada profissional anterior, embora mais focada no setor administrativo, sempre me possibilitou muito contato com tecnologia, e isso nutriu uma vontade que agora decidi abraçar e mergulhar de vez!
 
 
-Estou sempre pronta para conectar, compartilhar ideias ou mesmo tomar um café virtual e conversar sobre tecnologia. Você pode me contatar através do [meu e-mail](mailto:lanna_148@hotmail.com) ou me adicionar no [LinkedIn](https://www.linkedin.com/in/lanna-vieira/).
+Estou sempre pronta para conectar, compartilhar ideias ou mesmo tomar um café virtual e conversar sobre tecnologia. Você pode me contatar através do [LinkedIn](https://www.linkedin.com/in/lanna-vieira/).
 
 ## 💻 Tecnologias e Ferramentas
 
